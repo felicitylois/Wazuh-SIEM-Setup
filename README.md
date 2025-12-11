@@ -13,7 +13,7 @@ I implemented Wazuh, an open-source SIEM and XDR platform, to analyze logs, dete
 - Threat Intelligence (OTX feeds)
 - Suricata IDS (optional integration)
 
-## 🎯 Project Goals
+## 🎯 What This Lab Covers
 - Deploy a fully functional Wazuh SIEM environment
 - Collect logs from Linux and Windows endpoints
 - Detect malicious events using Wazuh rules, decoders, and MITRE ATT&CK mapping
