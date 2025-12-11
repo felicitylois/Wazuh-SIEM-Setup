@@ -6,8 +6,7 @@ I implemented Wazuh, an open-source SIEM and XDR platform, to analyze logs, dete
 - Wazuh Dashboard (Elastic Stack-based UI)
 - Wazuh Agents (Linux & Windows)
 - Ubuntu Server 22.04
-- Windows 10 VM
-- VirtualBox / VMware / Proxmox
+- UTM on Mac M1
 - SSH & WinRM
 - Filebeat / Auditd
 - Sysmon for advanced Windows telemetry
@@ -22,3 +21,5 @@ I implemented Wazuh, an open-source SIEM and XDR platform, to analyze logs, dete
 - Trigger real-time alerts and investigate security incidents
 - Integrate external threat intelligence
 - Document incident response steps and findings
+
+### 🚧 Project in progress 🚧
