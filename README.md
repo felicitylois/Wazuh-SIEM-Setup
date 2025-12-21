@@ -1,5 +1,7 @@
 # Wazuh-SIEM-Setup
 I implemented Wazuh, an open-source SIEM and XDR platform, to analyze logs, detect threats, and automate alerts inside a controlled lab environment.
+<img width="1400" height="818" alt="image" src="https://github.com/user-attachments/assets/6a8ce86b-9c0f-45d9-97b8-396dc6e6564d" />
+
 
 ## 🛠️ Tools & Technologies Used
 - Wazuh Manager
@@ -23,3 +25,5 @@ I implemented Wazuh, an open-source SIEM and XDR platform, to analyze logs, dete
 - Document incident response steps and findings
 
 ### 🚧 Project in progress 🚧
+
+
